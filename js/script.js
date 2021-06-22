@@ -2,4 +2,4 @@
 
 const category = 'toys'
 
-console.log()
+console.log(category)
