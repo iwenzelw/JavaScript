@@ -13,8 +13,10 @@ if (num < 49) {
 } else {
   console.log("OK!")
 }
+ 
+const primer = (num === 50) ? console.log('ok!') : console.log('error')
 
-(num === 50) ? console.log('ok!') : console.log('error')
+
 
 switch (num) {
   case 49:
