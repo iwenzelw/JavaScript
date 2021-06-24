@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="444d3d11-b7f9-4788-866a-ea2f04b70465" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/js/script_18.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/script_19.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/script_20.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -36,13 +37,10 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.JavaScript" />
+    <property name="settings.editor.selected.configurable" value="reference.idesettings.emmet.xml" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Node.js.script_18.js">
-    <configuration name="15.1 script.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js/15.1 script.js" working-dir="$PROJECT_DIR$/js">
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Node.js.script_20.js">
     <configuration name="script_16.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js/script_16.js" working-dir="$PROJECT_DIR$/js">
       <method v="2" />
     </configuration>
@@ -52,12 +50,19 @@
     <configuration name="script_18.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js/script_18.js" working-dir="$PROJECT_DIR$/js">
       <method v="2" />
     </configuration>
+    <configuration name="script_19.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js/script_19.js" working-dir="$PROJECT_DIR$/js">
+      <method v="2" />
+    </configuration>
+    <configuration name="script_20.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js/script_20.js" working-dir="$PROJECT_DIR$/js">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.script_20.js" />
+        <item itemvalue="Node.js.script_19.js" />
         <item itemvalue="Node.js.script_18.js" />
         <item itemvalue="Node.js.script_17.js" />
         <item itemvalue="Node.js.script_16.js" />
-        <item itemvalue="Node.js.15.1 script.js" />
       </list>
     </recent_temporary>
   </component>
@@ -74,7 +79,7 @@
       <workItem from="1624432504802" duration="236000" />
       <workItem from="1624432753719" duration="1120000" />
       <workItem from="1624433934585" duration="287000" />
-      <workItem from="1624434262446" duration="7393000" />
+      <workItem from="1624434262446" duration="13310000" />
     </task>
     <task id="LOCAL-00001" summary="урок 15">
       <created>1624439465336</created>
@@ -90,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1624443121531</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="урок 18">
+      <created>1624445480856</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1624445480856</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -99,45 +111,46 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="урок 15" />
     <MESSAGE value="урок 17" />
-    <option name="LAST_COMMIT_MESSAGE" value="урок 17" />
+    <MESSAGE value="урок 18" />
+    <option name="LAST_COMMIT_MESSAGE" value="урок 18" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1079" y="399" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1624433919859">
       <screen x="0" y="23" width="1920" height="1002" />
     </state>
     <state x="1079" y="399" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.23.1920.1002@0.23.1920.1002" timestamp="1624433919859" />
-    <state x="962" y="105" key="CommitChangelistDialog2" timestamp="1624443121434">
+    <state x="962" y="105" key="CommitChangelistDialog2" timestamp="1624445480738">
       <screen x="0" y="23" width="1920" height="1002" />
     </state>
-    <state x="962" y="105" key="CommitChangelistDialog2/0.23.1920.1002@0.23.1920.1002" timestamp="1624443121434" />
-    <state width="1019" height="363" key="GridCell.Tab.0.bottom" timestamp="1624444766954">
+    <state x="962" y="105" key="CommitChangelistDialog2/0.23.1920.1002@0.23.1920.1002" timestamp="1624445480738" />
+    <state width="874" height="255" key="GridCell.Tab.0.bottom" timestamp="1624454976557">
       <screen x="0" y="23" width="1920" height="1002" />
     </state>
-    <state width="1019" height="363" key="GridCell.Tab.0.bottom/0.23.1920.1002@0.23.1920.1002" timestamp="1624444766954" />
-    <state width="1019" height="363" key="GridCell.Tab.0.center" timestamp="1624444766953">
+    <state width="874" height="255" key="GridCell.Tab.0.bottom/0.23.1920.1002@0.23.1920.1002" timestamp="1624454976557" />
+    <state width="874" height="255" key="GridCell.Tab.0.center" timestamp="1624454976556">
       <screen x="0" y="23" width="1920" height="1002" />
     </state>
-    <state width="1019" height="363" key="GridCell.Tab.0.center/0.23.1920.1002@0.23.1920.1002" timestamp="1624444766953" />
-    <state width="1019" height="363" key="GridCell.Tab.0.left" timestamp="1624444766952">
+    <state width="874" height="255" key="GridCell.Tab.0.center/0.23.1920.1002@0.23.1920.1002" timestamp="1624454976556" />
+    <state width="874" height="255" key="GridCell.Tab.0.left" timestamp="1624454976556">
       <screen x="0" y="23" width="1920" height="1002" />
     </state>
-    <state width="1019" height="363" key="GridCell.Tab.0.left/0.23.1920.1002@0.23.1920.1002" timestamp="1624444766952" />
-    <state width="1019" height="363" key="GridCell.Tab.0.right" timestamp="1624444766953">
+    <state width="874" height="255" key="GridCell.Tab.0.left/0.23.1920.1002@0.23.1920.1002" timestamp="1624454976556" />
+    <state width="874" height="255" key="GridCell.Tab.0.right" timestamp="1624454976557">
       <screen x="0" y="23" width="1920" height="1002" />
     </state>
-    <state width="1019" height="363" key="GridCell.Tab.0.right/0.23.1920.1002@0.23.1920.1002" timestamp="1624444766953" />
+    <state width="874" height="255" key="GridCell.Tab.0.right/0.23.1920.1002@0.23.1920.1002" timestamp="1624454976557" />
     <state x="936" y="264" width="824" height="750" key="IDE.errors.dialog" timestamp="1624432786476">
       <screen x="0" y="23" width="1920" height="1002" />
     </state>
     <state x="936" y="264" width="824" height="750" key="IDE.errors.dialog/0.23.1920.1002@0.23.1920.1002" timestamp="1624432786476" />
-    <state x="828" y="203" width="1022" height="700" key="SettingsEditor" timestamp="1624444875106">
+    <state x="872" y="103" width="1022" height="700" key="SettingsEditor" timestamp="1624446318564">
       <screen x="0" y="23" width="1920" height="1002" />
     </state>
-    <state x="828" y="203" width="1022" height="700" key="SettingsEditor/0.23.1920.1002@0.23.1920.1002" timestamp="1624444875106" />
-    <state x="988" y="262" key="Vcs.Push.Dialog.v2" timestamp="1624443124331">
+    <state x="872" y="103" width="1022" height="700" key="SettingsEditor/0.23.1920.1002@0.23.1920.1002" timestamp="1624446318564" />
+    <state x="988" y="262" key="Vcs.Push.Dialog.v2" timestamp="1624445482521">
       <screen x="0" y="23" width="1920" height="1002" />
     </state>
-    <state x="988" y="262" key="Vcs.Push.Dialog.v2/0.23.1920.1002@0.23.1920.1002" timestamp="1624443124331" />
+    <state x="988" y="262" key="Vcs.Push.Dialog.v2/0.23.1920.1002@0.23.1920.1002" timestamp="1624445482521" />
     <state x="993" y="247" key="run.anything.popup" timestamp="1624432215016">
       <screen x="0" y="23" width="1920" height="1002" />
     </state>
