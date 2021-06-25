@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="444d3d11-b7f9-4788-866a-ea2f04b70465" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/js/script_test.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/project/js/30.1 script.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/project/js/30.1 script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/script_24.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/script_24.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,6 +39,12 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="reference.idesettings.emmet.xml" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/js" />
+      <recent name="$PROJECT_DIR$/js/project/js" />
+    </key>
   </component>
   <component name="RunManager" selected="Node.js.script_20.js">
     <configuration name="script_16.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js/script_16.js" working-dir="$PROJECT_DIR$/js">
@@ -80,7 +86,7 @@
       <workItem from="1624432753719" duration="1120000" />
       <workItem from="1624433934585" duration="287000" />
       <workItem from="1624434262446" duration="13310000" />
-      <workItem from="1624635064395" duration="762000" />
+      <workItem from="1624635064395" duration="1740000" />
     </task>
     <task id="LOCAL-00001" summary="урок 15">
       <created>1624439465336</created>
@@ -103,7 +109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1624445480856</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="урок 32">
+      <created>1624635852476</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1624635852476</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -113,17 +126,18 @@
     <MESSAGE value="урок 15" />
     <MESSAGE value="урок 17" />
     <MESSAGE value="урок 18" />
-    <option name="LAST_COMMIT_MESSAGE" value="урок 18" />
+    <MESSAGE value="урок 32" />
+    <option name="LAST_COMMIT_MESSAGE" value="урок 32" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1079" y="399" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1624433919859">
       <screen x="0" y="23" width="1920" height="1002" />
     </state>
     <state x="1079" y="399" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.23.1920.1002@0.23.1920.1002" timestamp="1624433919859" />
-    <state x="962" y="105" key="CommitChangelistDialog2" timestamp="1624445480738">
+    <state x="962" y="105" key="CommitChangelistDialog2" timestamp="1624635852278">
       <screen x="0" y="23" width="1920" height="1002" />
     </state>
-    <state x="962" y="105" key="CommitChangelistDialog2/0.23.1920.1002@0.23.1920.1002" timestamp="1624445480738" />
+    <state x="962" y="105" key="CommitChangelistDialog2/0.23.1920.1002@0.23.1920.1002" timestamp="1624635852278" />
     <state width="874" height="255" key="GridCell.Tab.0.bottom" timestamp="1624454976557">
       <screen x="0" y="23" width="1920" height="1002" />
     </state>
@@ -148,10 +162,10 @@
       <screen x="0" y="23" width="1920" height="1002" />
     </state>
     <state x="872" y="103" width="1022" height="700" key="SettingsEditor/0.23.1920.1002@0.23.1920.1002" timestamp="1624446318564" />
-    <state x="988" y="262" key="Vcs.Push.Dialog.v2" timestamp="1624445482521">
+    <state x="988" y="262" key="Vcs.Push.Dialog.v2" timestamp="1624635856070">
       <screen x="0" y="23" width="1920" height="1002" />
     </state>
-    <state x="988" y="262" key="Vcs.Push.Dialog.v2/0.23.1920.1002@0.23.1920.1002" timestamp="1624445482521" />
+    <state x="988" y="262" key="Vcs.Push.Dialog.v2/0.23.1920.1002@0.23.1920.1002" timestamp="1624635856070" />
     <state x="993" y="247" key="run.anything.popup" timestamp="1624432215016">
       <screen x="0" y="23" width="1920" height="1002" />
     </state>
