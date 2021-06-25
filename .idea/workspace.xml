@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="444d3d11-b7f9-4788-866a-ea2f04b70465" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/js/script_19.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/script_20.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/project/js/30.1 script.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/project/js/30.1 script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/script_24.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/script_24.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,6 +80,7 @@
       <workItem from="1624432753719" duration="1120000" />
       <workItem from="1624433934585" duration="287000" />
       <workItem from="1624434262446" duration="13310000" />
+      <workItem from="1624635064395" duration="762000" />
     </task>
     <task id="LOCAL-00001" summary="урок 15">
       <created>1624439465336</created>

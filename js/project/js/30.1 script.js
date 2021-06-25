@@ -58,7 +58,7 @@ document.addEventListener('DOMContentLoaded', () => {
     event.target.reset()
   })
 
-  const deletAdv = (arr) => {
+  const deleteAdv = (arr) => {
     arr.forEach((item) => {
       item.remove()
     })
@@ -94,7 +94,7 @@ document.addEventListener('DOMContentLoaded', () => {
     })
   }
 
-  deletAdv(adv)
+  deleteAdv(adv)
   makeChange()
 
   createMoviesList(movieDB.movies, movieList)
