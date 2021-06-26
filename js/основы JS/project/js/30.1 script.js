@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
   addForm.addEventListener('submit', (event) => {
     event.preventDefault() // отмена перезагрузки страницы
 
-    let newFilm = addInput.value    
+    let newFilm = addInput.value
     const favorite = checkbox.checked
 
     if (newFilm) {
@@ -98,6 +98,4 @@ document.addEventListener('DOMContentLoaded', () => {
   makeChange()
 
   createMoviesList(movieDB.movies, movieList)
-
-  
 })

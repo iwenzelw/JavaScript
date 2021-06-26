@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="444d3d11-b7f9-4788-866a-ea2f04b70465" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/js/script_test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/script_24.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/script_24.js" afterDir="false" />
-    </list>
+    <list default="true" id="444d3d11-b7f9-4788-866a-ea2f04b70465" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -86,7 +81,7 @@
       <workItem from="1624432753719" duration="1120000" />
       <workItem from="1624433934585" duration="287000" />
       <workItem from="1624434262446" duration="13310000" />
-      <workItem from="1624635064395" duration="1740000" />
+      <workItem from="1624635064395" duration="2066000" />
     </task>
     <task id="LOCAL-00001" summary="урок 15">
       <created>1624439465336</created>
@@ -116,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1624635852476</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="урок 32 Основы JS пройдены">
+      <created>1624637100371</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1624637100371</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,17 +129,18 @@
     <MESSAGE value="урок 17" />
     <MESSAGE value="урок 18" />
     <MESSAGE value="урок 32" />
-    <option name="LAST_COMMIT_MESSAGE" value="урок 32" />
+    <MESSAGE value="урок 32 Основы JS пройдены" />
+    <option name="LAST_COMMIT_MESSAGE" value="урок 32 Основы JS пройдены" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1079" y="399" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1624433919859">
       <screen x="0" y="23" width="1920" height="1002" />
     </state>
     <state x="1079" y="399" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.23.1920.1002@0.23.1920.1002" timestamp="1624433919859" />
-    <state x="962" y="105" key="CommitChangelistDialog2" timestamp="1624635852278">
+    <state x="962" y="105" key="CommitChangelistDialog2" timestamp="1624637100258">
       <screen x="0" y="23" width="1920" height="1002" />
     </state>
-    <state x="962" y="105" key="CommitChangelistDialog2/0.23.1920.1002@0.23.1920.1002" timestamp="1624635852278" />
+    <state x="962" y="105" key="CommitChangelistDialog2/0.23.1920.1002@0.23.1920.1002" timestamp="1624637100258" />
     <state width="874" height="255" key="GridCell.Tab.0.bottom" timestamp="1624454976557">
       <screen x="0" y="23" width="1920" height="1002" />
     </state>
@@ -162,10 +165,10 @@
       <screen x="0" y="23" width="1920" height="1002" />
     </state>
     <state x="872" y="103" width="1022" height="700" key="SettingsEditor/0.23.1920.1002@0.23.1920.1002" timestamp="1624446318564" />
-    <state x="988" y="262" key="Vcs.Push.Dialog.v2" timestamp="1624635856070">
+    <state x="988" y="262" key="Vcs.Push.Dialog.v2" timestamp="1624637101950">
       <screen x="0" y="23" width="1920" height="1002" />
     </state>
-    <state x="988" y="262" key="Vcs.Push.Dialog.v2/0.23.1920.1002@0.23.1920.1002" timestamp="1624635856070" />
+    <state x="988" y="262" key="Vcs.Push.Dialog.v2/0.23.1920.1002@0.23.1920.1002" timestamp="1624637101950" />
     <state x="993" y="247" key="run.anything.popup" timestamp="1624432215016">
       <screen x="0" y="23" width="1920" height="1002" />
     </state>
