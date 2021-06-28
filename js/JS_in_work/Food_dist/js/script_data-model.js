@@ -46,7 +46,7 @@ window.addEventListener('DOMContentLoaded', () => {
 
   window.addEventListener('scroll', showModalByScroll)
 
-
+})
 
 
   // modalTrigger.addEventListener('click', () => {
@@ -70,4 +70,4 @@ window.addEventListener('DOMContentLoaded', () => {
   //     // document.body.style.overflow = ''
   //   }
   // })
-})
+
