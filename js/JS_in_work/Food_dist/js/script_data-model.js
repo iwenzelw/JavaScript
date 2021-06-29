@@ -35,7 +35,7 @@ window.addEventListener('DOMContentLoaded', () => {
     }
   })
 // таймер появления окна
-  const modalTimerId = setTimeout(modalOpen, 5000)
+  // const modalTimerId = setTimeout(modalOpen, 5000)
   // окно появиться когда дойдет до конца страницы
   function showModalByScroll() {
     if (window.pageYOffset + document.documentElement.clientHeight >= document.documentElement.scrollHeight) {
